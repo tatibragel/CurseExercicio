@@ -1,0 +1,13 @@
+E:\GitHub\C#\CurseExercicio\CurseExercicio\bin\Debug\netcoreapp3.1\CurseExercicio.exe
+E:\GitHub\C#\CurseExercicio\CurseExercicio\bin\Debug\netcoreapp3.1\CurseExercicio.deps.json
+E:\GitHub\C#\CurseExercicio\CurseExercicio\bin\Debug\netcoreapp3.1\CurseExercicio.runtimeconfig.json
+E:\GitHub\C#\CurseExercicio\CurseExercicio\bin\Debug\netcoreapp3.1\CurseExercicio.runtimeconfig.dev.json
+E:\GitHub\C#\CurseExercicio\CurseExercicio\bin\Debug\netcoreapp3.1\CurseExercicio.dll
+E:\GitHub\C#\CurseExercicio\CurseExercicio\bin\Debug\netcoreapp3.1\CurseExercicio.pdb
+E:\GitHub\C#\CurseExercicio\CurseExercicio\obj\Debug\netcoreapp3.1\CurseExercicio.csprojAssemblyReference.cache
+E:\GitHub\C#\CurseExercicio\CurseExercicio\obj\Debug\netcoreapp3.1\CurseExercicio.AssemblyInfoInputs.cache
+E:\GitHub\C#\CurseExercicio\CurseExercicio\obj\Debug\netcoreapp3.1\CurseExercicio.AssemblyInfo.cs
+E:\GitHub\C#\CurseExercicio\CurseExercicio\obj\Debug\netcoreapp3.1\CurseExercicio.csproj.CoreCompileInputs.cache
+E:\GitHub\C#\CurseExercicio\CurseExercicio\obj\Debug\netcoreapp3.1\CurseExercicio.dll
+E:\GitHub\C#\CurseExercicio\CurseExercicio\obj\Debug\netcoreapp3.1\CurseExercicio.pdb
+E:\GitHub\C#\CurseExercicio\CurseExercicio\obj\Debug\netcoreapp3.1\CurseExercicio.genruntimeconfig.cache
